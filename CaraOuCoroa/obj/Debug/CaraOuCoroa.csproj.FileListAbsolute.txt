@@ -1,0 +1,11 @@
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\bin\Debug\CaraOuCoroa.exe.config
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\bin\Debug\CaraOuCoroa.exe
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\bin\Debug\CaraOuCoroa.pdb
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.csproj.AssemblyReference.cache
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.Form1.resources
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.Properties.Resources.resources
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.csproj.GenerateResource.cache
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.csproj.CoreCompileInputs.cache
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.exe
+C:\Users\rafael.santos\Documents\projetos_visual_studio_code\CaraOuCoroa\obj\Debug\CaraOuCoroa.pdb
